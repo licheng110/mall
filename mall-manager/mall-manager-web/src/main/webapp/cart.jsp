@@ -6,6 +6,7 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
+<%--    测试--%>
     <meta name="renderer" content="webkit|ie-comp|ie-stand">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta charset="utf-8">
